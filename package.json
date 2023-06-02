@@ -1,0 +1,14 @@
+{
+    "name": "rts_peer_server_for_mod_vpl_rts",
+    "version": "1.0.0",
+    "description": "RTS server for mod vpl",
+    "author":"Duishenaliev Erdar erdan.duos@gmail.com",
+    "main": "rts-peer-server.js",
+    "scripts": {
+        "start": "node rts-peer-server.js"
+    },
+    "dependencies": {
+        "node": "^16.20.0",
+        "peer": "^1.0.0"
+    }
+}
